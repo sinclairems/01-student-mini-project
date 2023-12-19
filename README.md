@@ -1,7 +1,7 @@
-# 01-student-mini-project
+# 01 Student Mini-Project
 Our first student mini-project: create a webpage that resembles the image using HTML and CSS. Here are the instructions and criteria from UTA Bootcamp:
 
-# Module 01 Mini-Project: Landing Page
+## Module 01 Mini-Project: Landing Page
 
 In this mini-project, you will build a landing page using HTML and CSS. While you will be responsible for your own landing page, you will work in a group to brainstorm and share ideas.
 
@@ -45,6 +45,10 @@ Work in your group to implement the following user stories:
 
 * It's done when the page is deployed to GitHub Pages.
 
-# Here is what the finished page should look like
+## Here is what the finished page should look like:
 
 ![sample page](/assets/sample-page.png)
+
+## Here is the end result:
+
+![end result](/assets/end-result.png)
