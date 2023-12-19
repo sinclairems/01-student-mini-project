@@ -1,4 +1,7 @@
 # 01 Student Mini-Project
+
+The Final Result can be seen here: Your site is live at https://sinclairems.github.io/01-student-mini-project/
+
 Our first student mini-project: create a webpage that resembles the image using HTML and CSS. Here are the instructions and criteria from UTA Bootcamp:
 
 ## Module 01 Mini-Project: Landing Page
