@@ -1,0 +1,116 @@
+/* Base */
+* {
+  box-sizing:border-box;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin:0;
+  padding:0;
+}
+
+html {
+
+  background-color:whitesmoke;
+}
+
+header {
+  background-color: #27604f;
+  border-bottom: 12px solid #deaf94;
+  padding: 15px;
+}
+
+/* Layout */
+nav ul {
+  display: flex;
+  justify-content: flex-end;
+  color:whitesmoke;
+  font-size: 20px;
+}
+
+li {
+  list-style-type: none;
+  padding: 10px;
+}
+
+/* Modules */
+h1 {
+  font-size: 50px;
+  color: #504846;
+  text-align: center;
+  padding: 15px;
+}
+
+figure {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 15px;
+}
+
+figcaption {
+  font-size: 20px;
+  color: #504846;
+  text-align: center;
+  padding: 15px;
+}
+
+h2 {
+  font-size: 30px;
+  color: #504846;
+  text-align: center;
+  padding: 30px;
+}
+
+.form {
+  background-color: #e7cec1;
+  border-top: 6px solid #deaf94;
+  padding: 20px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 50%;
+  margin: 0 auto;
+  padding: 10px;
+  border: 2px solid whitesmoke;
+  border-radius: 15px;
+}
+
+input {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  border: 2px solid #deaf94;
+  border-radius: 4px;
+}
+
+::placeholder {
+  color: #504846;
+}
+
+button {
+  background-color: #27604f;
+  color: whitesmoke;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: 2px solid #deaf94;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+footer {
+  background-color: #27604f;
+  padding: 15px;
+  text-align: center;
+  color: whitesmoke;
+  font-size: 20px;
+}
+
+/* State */
+
+/* Logo Colors found on https: //www.site24x7.com/tools/color-code-picker.html
+#e7cec1 - .form
+#504846 - h1
+#27604f - header
+#deaf94 - border-bottom
+*/
